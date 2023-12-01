@@ -1,4 +1,8 @@
-.h1{
+h1{
     color: aliceblue;
-    font-size: 200px;
+    font-size: 70px;
+}
+p{
+    color: aliceblue;
+    font-size: 40px;
 }
